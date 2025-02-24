@@ -5,6 +5,10 @@ hide:
 
 # Changelog
 
+## Feb 24, 2025
+* **BUG** Fixed an issue where OpenAI's API message limit was reached.
+
+
 ## Feb 21, 2025
 
 * **NEW**: Add an AI helper for writing code in Python Nodes. [Demo](https://www.loom.com/share/2e2f04f9a8fe4e2da3a957d79f456c3e?sid=63ad91f7-453c-4977-87df-1bc1a6dc950b)
